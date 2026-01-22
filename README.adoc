@@ -5,4 +5,4 @@ Zig FFI for document text extraction in i18n workflows.
 
 == License
 
-AGPL-3.0-or-later
+PMPL-1.0-or-later
